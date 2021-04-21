@@ -1,0 +1,24 @@
+{
+  "name": "babel-example",
+  "version": "1.0.0",
+  "description": "init ```bash npm install ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelring127/babel-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angelring127/babel-example/issues"
+  },
+  "homepage": "https://github.com/angelring127/babel-example#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.16",
+    "@babel/core": "^7.13.16"
+  }
+}
